@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1696835844 source:c:\users\kimth\onedrive - herningsholm erhvervsskole\herningsholm\2.g\it\codeblock\test project\codesource\test console\erstat program\main.c
+	<stdio.h>
+	<string.h>
+
